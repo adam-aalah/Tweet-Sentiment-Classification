@@ -1,4 +1,4 @@
-tweet_index;Label_A1_positive;Label_A2_negative;Label_A3_neutral
+tweet_index;Label_positive;Label_negative;Label_neutral
 0;1.0;0.0;0.0
 1;0.0;0.0;1.0
 2;1.0;0.0;1.0
