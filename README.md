@@ -1,4 +1,4 @@
-# Sentiment Analysis of Tweets on Autonomous Vehicles
+# Sentiment Analysis of Tweets on Autonomous Vehicles from 2012 to 2021
 
 This repository contains the research and analysis conducted in our study on the comparative performance of various sentiment analysis models applied to the classification of tweets related to autonomous vehicles (AVs). 
 Our work explores a range of sentiment analysis models including Support Vector Machines (SVM), Long Short-Term Memory networks (LSTM), BERTweet(base), RoBERTa(base), and RoBERTa(base-latest).
