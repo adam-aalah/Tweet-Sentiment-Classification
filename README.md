@@ -13,7 +13,7 @@ The main objectives of this study were to:
 
 #### Repository Organization
 The project is divided into several folders:
-* Data set: This folder contains the 1,198 randomly selected tweet IDs used for manual labeling, training, validating, and testing models. The tweet IDs are provided to ensure the replicability of the project.
+* Data sets: This folder contains several files with the tweet IDs to ensure the replicability of the project: 1) the complete dataset of 6 million collected tweets; 2) the 3 million filtered tweets; and 3) the 1,198 randomly selected tweet IDs used for manual labeling, training, validating, and testing models.
 * Multiclass Classification: This folder contains complete code, manually labeled data, and tweet IDs.
 * Multilabel Classification: This folder includes complete code, manually labeled data, and tweet IDs.
 * Emotional and valence dictionary: This resource was utilized to filter the textual data.
