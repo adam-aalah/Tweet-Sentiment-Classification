@@ -18,6 +18,8 @@ The project is divided into several folders:
 * Multilabel Classification: This folder includes complete code, manually labeled data, and tweet IDs.
 * Emotional and valence dictionary: This resource was utilized to filter the textual data.
 
+Full Changelog: https://github.com/adam-aalah/Tweet-Sentiment-Classification/commits/v.1.0.0
+
 #### Findings
 
 Our comprehensive analysis revealed that:
